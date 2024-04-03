@@ -541,7 +541,7 @@ section.status {
 }
 
 .rotate {
-  animation: animName 40s infinite linear;
+  animation: animName 50s infinite linear;
 }
 
 @keyframes animName {
