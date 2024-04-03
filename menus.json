@@ -6,60 +6,139 @@
   "image": "pizza.png",
   "price": "250",
   "size": "small"
-},{
+},
+{
   "_id": {
     "$oid": "5eee6671a27a66807cf2bea3"
   },
   "name": "Marinara",
-  "image": "pizza.png",
+  "image": "pizza4.png",
   "price": "300",
   "size": "medium"
-},{
+},
+{
   "_id": {
     "$oid": "5eee6692a27a66807cf2bea4"
   },
   "name": "Carbonara",
-  "image": "pizza.png",
+  "image": "pizza2.png",
   "price": "200",
   "size": "small"
-},{
+},
+{
   "_id": {
     "$oid": "5eee66a5a27a66807cf2bea5"
   },
   "name": "Americana",
-  "image": "pizza.png",
+  "image": "pizza1.png",
   "price": "500",
   "size": "large"
-},{
+},
+{
   "_id": {
     "$oid": "5eee66c4a27a66807cf2bea6"
   },
   "name": "Chicken Mushroom",
-  "image": "pizza.png",
+  "image": "pizza5.png",
   "price": "350",
   "size": "medium"
-},{
+},
+{
   "_id": {
     "$oid": "5eee66cfa27a66807cf2bea7"
   },
   "name": "Paneer pizza",
-  "image": "pizza.png",
+  "image": "pizza3.png",
   "price": "200",
   "size": "small"
-},{
+},
+{
   "_id": {
     "$oid": "5eee66eea27a66807cf2bea8"
   },
   "name": "Vegies pizza",
-  "image": "pizza.png",
+  "image": "pizza7.png",
   "price": "600",
   "size": "large"
-},{ 
+},
+{
   "_id": {
     "$oid": "5eee6717a27a66807cf2bea9"
   },
   "name": "Pepperoni",
-  "image": "pizza.png",
+  "image": "pizza6.png",
   "price": "500",
   "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "660cfc283644d201fb055094"
+  },
+  "name": "Carbonara",
+  "image": "pizza2.png",
+  "price": "400",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "660cfc6d3644d201fb055096"
+  },
+  "name": "Chicken Mushroom",
+  "image": "pizza5.png",
+  "price": "250",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "660cfcd23644d201fb055097"
+  },
+  "name": "Marinara",
+  "image": "pizza4.png",
+  "price": "200",
+  "size": "small"
+},
+{
+  "_id": {
+    "$oid": "660cfcf63644d201fb055098"
+  },
+  "name": "Margherita",
+  "image": "pizza.png",
+  "price": "350",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "660cfd4c3644d201fb055099"
+  },
+  "name": "Americana",
+  "image": "pizza1.png",
+  "price": "500",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "660cfdc23644d201fb05509b"
+  },
+  "name": "Pepperoni",
+  "image": "pizza6.png",
+  "price": "600",
+  "size": "large"
+},
+{
+  "_id": {
+    "$oid": "660cfde73644d201fb05509d"
+  },
+  "name": "Paneer pizza",
+  "image": "pizza3.png",
+  "price": "400",
+  "size": "medium"
+},
+{
+  "_id": {
+    "$oid": "660cfdff3644d201fb05509e"
+  },
+  "name": "Vegies pizza",
+  "image": "pizza7.png",
+  "price": "200",
+  "size": "small"
 }]
